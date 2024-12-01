@@ -3,7 +3,5 @@
 
 *codebook: https://docs.google.com/spreadsheets/d/18Gxtm6peioCOcONmfrvvvOf3mr2oOzzgiYAqr6dSvxM/edit?usp=sharing*
 
-*link_colab: https://colab.research.google.com/drive/1sKSe0ut1nsuRSKTOsIU429SvFhDUwAai?usp=sharing*
-
 *data_modeling: https://dbdiagram.io/d/Data_Modelling-OLAP-66f36b03a0828f8aa6f4be73* 
 
