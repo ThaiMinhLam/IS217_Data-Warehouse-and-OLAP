@@ -7,7 +7,7 @@ Thu thập và kết hợp nhiều nguồn dữ liệu khác nhau trên RAWG Web
 - 🧩 **Data Integration**: Thu thập dữ liệu đa nguồn, xây dựng mô hình dữ liệu
 - 🔍 **Advanced Analytics**: Thiết kế Measure, Dimension xây dựng khối Cube và phân cấp nhằm thực hiện truy vấn trên Cube, MDX và Pivot Table (Excel)
 - 📊 **Reporting**: Sử dụng PowerBI, Looker trực quan dữ liệu viết báo cáo
-- 🔮 **Data Mining**: Thực hiện phân tích, khai phá và trực quan trên bộ dữ liệu Predict Students' Dropout and Academic Success
+- 🔮 **Data Mining**: Thực hiện phân tích, khai phá và trực quan trên bộ dữ liệu Predict Students' Dropout and Academic Success. Đề xuất các mô hình phân loại hai lớp (binary-classification) đối với tình trạng tốt nghiệp của sinh viên (Dropout / Graduate)
 
 ## 💡 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
@@ -22,7 +22,9 @@ Thu thập và kết hợp nhiều nguồn dữ liệu khác nhau trên RAWG Web
 ![Looker](https://img.shields.io/badge/Looker-Business%20Intelligence-yellow)
 
 ## 🔗 Source Datasets and Report
-**Dataset**: *https://www.kaggle.com/datasets/pxxthik/rawg-data-delve-rich-tapestry-of-video-games?select=games.csv*
+**Dataset_OLAP**: *https://www.kaggle.com/datasets/pxxthik/rawg-data-delve-rich-tapestry-of-video-games?select=games.csv*
+
+**Dataset_DataMining**: *https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success*
 
 **CodeBook**: *https://docs.google.com/spreadsheets/d/18Gxtm6peioCOcONmfrvvvOf3mr2oOzzgiYAqr6dSvxM/edit?usp=sharing*
 
